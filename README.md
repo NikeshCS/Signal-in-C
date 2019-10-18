@@ -13,4 +13,6 @@ Parent handler:
 - SIGKILL -> Kills the signal to the child.
 - Waits for child to execute
 
-
+How to execute?
+Compile files
+./signal2
